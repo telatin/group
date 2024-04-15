@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://telatin.github.io/group/sitemap.xml
